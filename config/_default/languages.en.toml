@@ -10,6 +10,7 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 logo = "icons8-dice-70.png"
+copyright = "© { year } Jose Maria Santiago III. Content licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 
 [[params.author.links]]
 email = "mailto:jmsantiagoiii@gmail.com"
