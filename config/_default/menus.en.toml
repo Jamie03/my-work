@@ -1,0 +1,35 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "research"
+pageRef = "posts"
+identifier = "xLGJPK04Qw"
+weight = 9_998
+
+[[main]]
+name = "resume"
+url = "https://drive.google.com/file/d/1EoxCVCWjmhsJ8w-8b0KPRmYt3qVLKfKO/view?usp=sharing"
+identifier = "h5cFokXpfM"
+weight = 9_998
+
+[[main]]
+name = "world-building"
+pageRef = "worlds"
+identifier = "mPQNSvyNQ9"
+weight = 9_998
+
+[[main]]
+pre = "linkedin"
+url = "https://www.linkedin.com/in/jmsantiagoiii/"
+identifier = "RWzr9y7HK8"
+weight = 9_999
+
+[[main]]
+pre = "orcid"
+url = "https://orcid.org/0000-0002-4730-7865"
+identifier = "2c0G4IC0Bt"
+weight = 9_999
+
+[[footer]]
+none = "none"

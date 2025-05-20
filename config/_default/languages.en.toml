@@ -1,0 +1,30 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "You found me!"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "icons8-dice-70.png"
+
+[[params.author.links]]
+email = "mailto:jmsantiagoiii@gmail.com"
+
+[[params.author.links]]
+github = "https://github.com/Jamie03"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/jmsantiagoiii/"
+
+[[params.author.links]]
+orcid = "https://orcid.org/0000-0002-4730-7865"
+
+["params.author"]
+name = "Jose Maria Santiago III"
+image = "jm.jpg"
+headline = "Designer • Developer • Researcher"
+bio = "Greetings! My name is JM, and I aim to design a better tomorrow. Using new technologies, I want to create new tools and design better experiences for our everyday lives. We learn something new every day, but I believe it is our responsibility to share and apply these learnings to drive positive change! I am always looking to collaborate with like-minded individuals and groups. If you want to work together, send me an invite!"
