@@ -30,7 +30,7 @@ showScrollToTop = true
 [homepage]
 layout = "background"
 showRecent = "enable"
-showRecentItems = 5
+showRecentItems = "6"
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = "enable"
@@ -65,7 +65,7 @@ showZenMode = true
 heroStyle = "background"
 
 [list]
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
@@ -73,12 +73,13 @@ showSummary = false
 showViews = false
 showLikes = false
 showTableOfContents = false
-showCards = false
+showCards = true
 orderByWeight = false
 groupByYear = true
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
+heroStyle = "background"
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]

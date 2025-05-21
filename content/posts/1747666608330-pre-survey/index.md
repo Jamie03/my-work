@@ -50,3 +50,5 @@ For those ready to experiment, they outlined the following use cases:
 The survey makes one thing clear: players and GMs love the creative freedom of tabletop play and already lean on digital tools, but when it comes to AI, there’s a real sense of caution. Many worry that an over-eager algorithm could dilute the human spark that makes every session unique. Understanding those fears is essential if we want AI to be a trusted companion rather than an oversized game master.
 
 To get to the bottom of this, I decided to conduct a focused follow-up study that will explore how analog methods and digital aids coexist around the table and probe how generative AI might shoulder routine tasks—like character-sheet upkeep or world-building structure—without stealing the spotlight from player-driven storytelling. By focusing on these questions, I hope to uncover the insights needed to build tools that truly enhance the shared adventure.
+
+**Interested in my research?** The take a look at [my other works](https://orcid.org/0000-0002-4730-7865) that cover topics ranging from using *AI in Live-Prototyping Studies* to *Affective State Change using Haptics*! 

@@ -107,4 +107,6 @@ Generative AI is opening new doors for creativity in TTRPGs, from rich world-bui
 
 The challenge lies in using AI thoughtfully, as a creative partner rather than a narrative crutch. After all, while code may shape the tools, the heart of every TTRPG remains undeniably human. As we explore what’s possible, one question guides us:
 
-*How will you let generative AI enhance your next adventure?*  
+*How will you let generative AI enhance your next adventure?* 
+
+**Interested in my research?** The take a look at [my other works](https://orcid.org/0000-0002-4730-7865) that cover topics ranging from using *AI in Live-Prototyping Studies* to *Affective State Change using Haptics*! 
