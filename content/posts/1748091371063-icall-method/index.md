@@ -19,6 +19,8 @@ But we can go even further. As I covered in my [previous article]({{% ref "/post
 
 Our research aims to bridge this gap by exploring how generative AI can create engaging, personalized, and context-rich language learning experiences. By integrating advanced AI technologies with proven language learning strategies, we hope to make language education more accessible, effective, and enjoyable for all learners.
 
+---
+
 ## What We Set Out to Discover
 
 When learning a new language, *one size doesn’t fit all*. People bring different experiences, personalities, and learning styles into the process, which is especially true for second language learners. So, we asked ourselves:
@@ -36,6 +38,8 @@ It’s one thing to imagine a smarter learning system, but another to build it i
 We envisioned an interconnected system of AI modules working together to create dynamic roleplay scenarios. These modules weren’t just randomly assembled, they're based on established design principles from language education research, combined with real-world input from learners.
 
 To test our ideas, we brought in language learners from diverse backgrounds who were already on their second-language learning journeys. Our team facilitated a series of hands-on user experience (UX) sessions. These sessions weren’t just about testing the tool, they were about discovering how people interact with it, what works, what doesn’t, and how to make the experience more intuitive, engaging, and effective.
+
+---
 
 ## Meet the Learners
 
@@ -63,6 +67,8 @@ After each session, we reviewed the feedback and drafted changes. We prioritized
 3. **Feasibility** – How practical it was to implement  
 
 This ensured our updates served the whole group and moved the project forward in a balanced way.
+
+---
 
 ## Building the Prototype
 
@@ -96,15 +102,18 @@ These pieces had to work together seamlessly and be easy to update between sessi
    - gTTS reads the response aloud  
    - Stable Diffusion updates the scene if needed  
 
+---
+
 ## What’s Next: From Prototype to Practice
 
-With our prototype up and running, we’ve laid the groundwork for a more personalized and immersive approach to second language learning. By integrating generative AI into scenario-based learning, we’ve opened new avenues for learners to engage with language in context-rich environments.
+With our [prototype up and running](https://github.com/NesR0M/AiCall_ResearchProjectSS23), we’ve laid the groundwork for a more personalized and immersive approach to second language learning. By integrating generative AI into scenario-based learning, we’ve opened new avenues for learners to engage with language in context-rich environments.
 
 But building the prototype was just the beginning. The real insights emerged as we tested and refined the system with actual learners. Their experiences, challenges, and feedback have been invaluable in shaping the tool to meet their needs better.
 
 In our next article, we’ll look into:  
 - **User Feedback**: What did learners think? We’ll share their experiences and the impact on their language acquisition journey.  
-- **Design Guidelines**: Based on iterative testing, we’ll outline key principles for creating effective AI-driven language learning tools.
 - **Lessons Learned**: From successes to setbacks, we'll discuss what worked, what didn't, and how these insights can inform future developments.
+
+> *Remember to check out the tool in our [Github](https://github.com/NesR0M/AiCall_ResearchProjectSS23)!*
 
 **Interested in my research?** The take a look at [my other works](https://orcid.org/0000-0002-4730-7865) that cover topics ranging from using *AI in Live-Prototyping Studies* to *Affective State Change using Haptics*! 
