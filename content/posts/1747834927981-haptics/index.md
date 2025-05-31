@@ -14,6 +14,8 @@ Have you ever glanced up from your screen after hours of back-to-back video call
 
 Traditional relaxation techniques (think guided meditations, breathing apps, or quick stretch breaks) certainly help, but they often demand that you pause your workflow, switch contexts, or stare at yet another screen. In a world where multitasking rules, these methods can feel like _just one more_ item on your to-do list. This tension between our need to stay productive and our need to unwind inspired us to look beyond visual and auditory cues, and to ask: _what if you could slip into a calmer state without ever leaving your desk?_
 
+---
+
 ## Affective Haptics Meets Generative AI
 
 Affective haptics focuses on using touch to impact your emotional state, while advances in generative AI produce dynamic, personalized soundscapes; together, they promise seamless, multisensory experiences that gently guide users into calm states without demanding visual attention or interrupting flow.
@@ -26,9 +28,14 @@ Affective haptics is a growing field dedicated to designing systems that can evo
 
 Meanwhile, generative AI has revolutionized how we create and experience audio: platforms like [Endel partner with Universal Music Group](https://pitchfork.com/news/universal-music-group-signs-deal-with-ai-startup-endel) to produce on-the-fly soundscapes tailored to factors like time of day and heart rate, helping listeners relax or focus without repetitive loops. Even artists like [Grimes](https://www.vogue.com/article/grimes-endel-ai-lullaby-sleep-soundscape) have explored AI-driven lullabies that adapt in real time to user data, showcasing the technology’s potential for personalized well-being experiences.
 
+---
+
 ## A New Frontier: Resonant Relaxation
 
 At its core, [Resonant Relaxation](https://zenodo.org/records/12549152) is about harnessing subtle haptic pulses and AI-generated audio to nudge you toward a calmer headspace without having to step away from your desk. Imagine a lightweight wristband or neckband that doesn’t just buzz, but _breathes_ with you, guiding your rhythm toward a more relaxed state.
+
+![Resonant Relaxation Poster](poster.png "Resonant Relaxation: Affective State Change via Procedurally Generated Haptics")
+
 
 Under the hood, our prototype is a [React](https://reactjs.org)-based web app that leans on [GPT-4o](https://openai.com/index/hello-gpt-4o/) to craft MIDI compositions from simple prompts. Those MIDI files are then turned into real-time waveforms via [Tone.js](https://tonejs.github.io) and fed into voice-coil actuators embedded in wearable patches. What you feel is two layers working in concert:
 
@@ -36,6 +43,8 @@ Under the hood, our prototype is a [React](https://reactjs.org)-based web app th
 - **AI-generated “sparkles”**, melodies aligned to the baseline frequency that keep the sensation novel and engaging
 
 In our first round of user tests with three participants tackling different sedentary tasks, everyone reported feeling noticeably calmer, and most loved the textured “sparkle” layer over a plain hum.
+
+---
 
 ## Join Us on Our Journey!
 

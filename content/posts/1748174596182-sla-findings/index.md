@@ -20,12 +20,6 @@ However, these iterations gave us more than just feedback on our tool. Our journ
 
 > *Remember to check out the tool in our [Github](https://github.com/NesR0M/AiCall_ResearchProjectSS23)!*
 
-Now, with dozens of interviews, hours of observation, and a clear roadmap of recurring requests and pain points, we’re ready to share a set of practical design guidelines. In this article, you’ll learn how to craft prompts that give your AI the context it needs, build adaptivity that matches each learner’s skill level, and shape a user experience that is familiar, forgiving, and even fun. Whether you’re wiring up speech and vision models or sketching out your next language-learning app, these guidelines will help you turn powerful AI into a truly human-centered tool.
-
----
-
-## Design Guidelines: What Makes an AI Language Tool Work?
-
 After three rounds of testing, dozens of interviews, and hours of observation, we started seeing recurring issues, feature requests, and user behaviors that gave us a clearer picture of what works (and what doesn’t) in an AI-powered language learning tool.
 
 From those insights, we developed a set of practical design guidelines grounded in real user feedback and tested through iteration. They address three key areas: how the AI is prompted, how the tool supports language learning, and how the overall user experience comes together.
